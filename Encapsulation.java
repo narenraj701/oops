@@ -26,7 +26,7 @@ class Employee{
 		this.salary = salary;
 	}
 	public String toString() {
-		return this.name+ " " + this.age+" "+this.salary;
+		return name+ " " + age+" "+salary;
 	}
 	
 }
